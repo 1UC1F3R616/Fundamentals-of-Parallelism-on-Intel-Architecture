@@ -3,4 +3,4 @@
 
 
 Upload project without anychange, will give 100% success.
-Quizes also provided.
+Quizes and Notes also provided.
